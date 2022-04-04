@@ -37,7 +37,7 @@ Nuestro proyecto dispone en total de 46 instancias de Sudoku para probar, las cu
 Por último, para cambiar de archivo de instancia se debe cambiar el nombre del archivo en la línea de código número 19, dentro del llamado a la función ```open```.
 ## Video explicativo
 ***
-Link al video bla bla
+Para una mejor comprensión del problema y su resolución, se adjunta un video explicativo en el siguiente [link](https://www.youtube.com/watch?app=desktop&v=q4rLmbqxn9M&feature=youtu.be).
 ## Coevaluación
 ***
 A continuación, tablas de coevaluación según estos criterios: [Criterios de coevaluación](https://docs.google.com/document/d/1YSba-KNP-ReP_TJePQkCHXJ1x4_MtOizQPIrNnriZbw/edit#)
