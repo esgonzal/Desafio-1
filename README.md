@@ -45,7 +45,7 @@ A continuación, tablas de coevaluación según estos criterios: [Criterios de c
 
 |                     | Esteban González | Carlos Núñez | Priscilla Riffo | Katherine Sepúlveda |
 | ------------------- | :--------------: | :----------: | :-------------: | :-----------------: |
-| Esteban González    | | | | |
+| Esteban González    | |+|+|+|
 | Carlos Núñez        |+| |+|+|
 | Priscilla Riffo     | | | | |
 | Katherine Sepúlveda |+|+|+| |
@@ -53,7 +53,7 @@ A continuación, tablas de coevaluación según estos criterios: [Criterios de c
 
 |                     | Esteban González | Carlos Núñez | Priscilla Riffo | Katherine Sepúlveda |
 | ------------------- | :--------------: | :----------: | :-------------: | :-----------------: |
-| Esteban González    | | | | |
+| Esteban González    | |+|+|+|
 | Carlos Núñez        |+| |+|+|
 | Priscilla Riffo     | | | | |
 | Katherine Sepúlveda |+|+|+| |
@@ -61,7 +61,7 @@ A continuación, tablas de coevaluación según estos criterios: [Criterios de c
 
 |                     | Esteban González | Carlos Núñez | Priscilla Riffo | Katherine Sepúlveda |
 | ------------------- | :--------------: | :----------: | :-------------: | :-----------------: |
-| Esteban González    | | | | |
+| Esteban González    | |+|+|+|
 | Carlos Núñez        |+| |+|+|
 | Priscilla Riffo     | | | | |
 | Katherine Sepúlveda |+|+|+| |
@@ -69,7 +69,7 @@ A continuación, tablas de coevaluación según estos criterios: [Criterios de c
 
 |                     | Esteban González | Carlos Núñez | Priscilla Riffo | Katherine Sepúlveda |
 | ------------------- | :--------------: | :----------: | :-------------: | :-----------------: |
-| Esteban González    | | | | |
+| Esteban González    | |+|+|+|
 | Carlos Núñez        |+| |+|+|
 | Priscilla Riffo     | | | | |
 | Katherine Sepúlveda |+|+|+| |
@@ -77,7 +77,7 @@ A continuación, tablas de coevaluación según estos criterios: [Criterios de c
 
 |                     | Esteban González | Carlos Núñez | Priscilla Riffo | Katherine Sepúlveda |
 | ------------------- | :--------------: | :----------: | :-------------: | :-----------------: |
-| Esteban González    | | | | |
+| Esteban González    | |+|+|+|
 | Carlos Núñez        |+| |+|+|
 | Priscilla Riffo     | | | | |
 | Katherine Sepúlveda |+|+|+| |
